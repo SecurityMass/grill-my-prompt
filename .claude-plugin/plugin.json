@@ -1,0 +1,7 @@
+{
+  "name": "grill-my-prompt",
+  "description": "Entrevista você sobre o seu prompt e gera um .md pronto para outra sessão do Claude",
+  "version": "1.0.0",
+  "author": { "name": "SecurityMass" },
+  "license": "MIT"
+}

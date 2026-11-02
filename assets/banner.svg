@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="120" viewBox="0 0 470 120" role="img" aria-label="/grill-my-prompt">
+  <text x="4" y="58" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="42" font-weight="700" fill="#e8590c">❯ /grill-my-prompt</text>
+  <g stroke="#e8590c" stroke-width="6" stroke-linecap="round">
+    <path d="M8 84H458"/>
+    <path d="M8 102H458" opacity=".45"/>
+  </g>
+</svg>

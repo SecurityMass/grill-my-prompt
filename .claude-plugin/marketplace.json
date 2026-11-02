@@ -1,0 +1,12 @@
+{
+  "name": "grill-my-prompt",
+  "owner": { "name": "SecurityMass" },
+  "metadata": { "description": "Skill que entrevista você sobre o seu prompt antes de usá-lo em outra sessão" },
+  "plugins": [
+    {
+      "name": "grill-my-prompt",
+      "source": "./",
+      "description": "Entrevista você sobre o seu prompt e gera um .md pronto para outra sessão do Claude"
+    }
+  ]
+}
